@@ -159,12 +159,12 @@ pip install -r requirements.txt
 ### 4. Start the Application
 Run the FastAPI development server from your terminal:
 ```bash
-uvicorn main:app --reload --host 127.0.0.1 --port 8000
+uvicorn main:app --reload --host 127.0.0.1 --port 8001
 ```
 
 Once running, access the interfaces directly in your browser:
-- **Interactive Underwriting Dashboard**: [http://127.0.0.1:8000](http://127.0.0.1:8000)
-- **Interactive API Documentation (Swagger)**: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+- **Interactive Underwriting Dashboard**: [http://127.0.0.1:8001](http://127.0.0.1:8001)
+- **Interactive API Documentation (Swagger)**: [http://127.0.0.1:8001/docs](http://127.0.0.1:8001/docs)
 
 ---
 
